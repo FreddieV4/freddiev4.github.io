@@ -1,16 +1,16 @@
 # main text of home
 name: Freddie Vargus
-bio: Computer Science & Statistics Student at Boston University
+bio: Senior at BU Studying Computer Science
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Homepage of Freddie Vargus
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
 picture: assets/images/freddie.jpg
 
-url: http://fjv4.com
+url: https://freddiev4.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -26,7 +26,7 @@ highlighter: rouge
 # analytics-piwik-id: 1
 
 # if you don't want comments in your posts, set to false
-disqus: false
+disqus: true
 
 # if you don't have any of social below, comment the line
 # facebook: 
@@ -38,7 +38,7 @@ linkedin: frederickvargus
 # youtube: myyoutube
 spotify: freddiev4
 github: freddiev4
-# stackoverflow: 3342430/freddiev4
+stackoverflow: 3342430/freddiev4
 # medium: medium
 # vimeo: myvimeo
 email: fvargus4@bu.edu
@@ -46,10 +46,10 @@ email: fvargus4@bu.edu
 authors:
     freddievargus:
         name: Freddie Vargus
-        bio: Computer Science & Statistics Student at Boston University
+        bio: Senior at BU Studying Computer Science
         external-image: false
         picture: assets/images/freddie.jpg
-        twitter: Freddie_v4
+        twitter: Freddie_V4
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
