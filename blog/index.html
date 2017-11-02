@@ -8,6 +8,8 @@ title: Blog
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
 	{% elsif site.paginate %}
+		<p class="text-center">
+			Blog posts on being a CS Student, First-Gen in college, Python, Quant Finance, Numerical Computing, Robotics, and Distributed Systems.</p>
 		{% for post in paginator.posts %}
 	        {% include blog-post.html %}
 	    {% endfor %}
