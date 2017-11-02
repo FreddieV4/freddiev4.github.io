@@ -7,9 +7,13 @@ title: Blog
 <section class="list">
 	{% if site.posts.size == 0 %}
 		<p class="text-center">Nothing published yet!</p>
+		<p class="text-center">
+		Blog posts on being a CS Student, First-Gen in college, Python, Quant Finance, Numerical Computing, Robotics, and Distributed Systems.
+		</p>
 	{% elsif site.paginate %}
 		<p class="text-center">
-			Blog posts on being a CS Student, First-Gen in college, Python, Quant Finance, Numerical Computing, Robotics, and Distributed Systems.</p>
+		Blog posts on being a CS Student and/or First-Gen College Student, Python, Quant Finance, Numerical Computing, Robotics, and Distributed Systems.
+		</p>
 		{% for post in paginator.posts %}
 	        {% include blog-post.html %}
 	    {% endfor %}
