@@ -1,6 +1,6 @@
 # main text of home
 name: Freddie Vargus
-bio: Software Engineer at Quantopian
+bio: Data Science Engineer at Indigo Ag
 
 # twitter summary info
 description: Homepage of Freddie Vargus
@@ -46,7 +46,7 @@ email: fjv41995@gmail.com
 authors:
     freddievargus:
         name: Freddie Vargus
-        bio: Software Engineer at Quantopian
+        bio: Data Science Engineer at Indigo Ag
         external-image: false
         picture: assets/images/freddie.jpg
         twitter: Freddie_V4
