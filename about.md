@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-Hello! My name is Freddie Vargus and I'm currently a Data Science Engineer at <a href="https://www.indigoag.com/">Inidgo</a>, helping farmers sustainably feed the planet. Previously, I worked as an Engineer at <a ref="https://www.quantopian.com/">Quantopian</a>, building tools for quants.
+Hello! My name is Freddie Vargus and I'm currently a Data Science Engineer at <a href="https://www.indigoag.com/">Indigo Ag</a>, helping farmers sustainably feed the planet. Previously, I worked as an Engineer at <a ref="https://www.quantopian.com/">Quantopian</a>, building tools for quants.
 </p>
 
 <p>
