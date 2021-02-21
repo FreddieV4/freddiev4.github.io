@@ -1,6 +1,6 @@
 # main text of home
 name: Freddie Vargus
-bio: Data Science Engineer at Indigo Ag
+bio: Machine Learning Engineer at Overjet
 
 # twitter summary info
 description: Homepage of Freddie Vargus
@@ -8,10 +8,9 @@ description: Homepage of Freddie Vargus
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/freddie.jpg
+picture: assets/images/freddie_li.jpg
 
 url: https://freddiev4.github.io
-# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
@@ -46,9 +45,9 @@ email: fjv41995@gmail.com
 authors:
     freddievargus:
         name: Freddie Vargus
-        bio: Data Science Engineer at Indigo Ag
+        bio: Machine Learning Engineer at Overjet
         external-image: false
-        picture: assets/images/freddie.jpg
+        picture: assets/images/freddie_li.jpg
         twitter: Freddie_V4
 
 # do you want a larger site? change the option below
