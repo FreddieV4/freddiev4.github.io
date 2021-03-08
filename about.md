@@ -13,7 +13,7 @@ I graduated from Boston University's Computer Science program in 2018, and along
 </p>
 
 <p>
-When I'm not writing code at work, I'm either advising the <a href="https://bufcinvest.com/"/>BUFIC</a> Quant Research team, trying out a new hobby (currently considering trying my hand at piano and music production), or doing something active when I can.
+When I'm not writing code at work, I'm either advising the <a href="https://bufcinvest.com/">BUFIC</a> Quant Research team, trying out a new hobby (currently considering trying my hand at piano and music production), or doing something active when I can.
 </p>
 
 <p>
