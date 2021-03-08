@@ -5,7 +5,7 @@ layout: page
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>
-Hello! My name is Freddie Vargus and I'm currently a Machine Learning Engineer at <a href="https://overjet.ai/">Overjet</a>, building out the future of dentistry through ML infrastructure. In the past, I've worked as a Data Science Engineer at <a href="https://www.indigoag.com">Indigo Ag</a>, building out risk management and pricing APIs for growers, and as an Engineer at <a href="https://www.crunchbase.com/organization/quantopian/">Quantopian</a>, building tools for quants.
+Hello! My name is Freddie Vargus and I'm currently a Machine Learning Engineer at <a href="https://overjet.ai/">Overjet</a>, building out the future of dentistry through ML infrastructure. In the past, I've worked as a Data Science Engineer at <a href="https://www.indigoag.com">Indigo Ag</a>, building out risk management and pricing APIs for growers, and as an Engineer at <a href="https://www.crunchbase.com/organization/quantopian/">Quantopian</a>, building an algorithmic trading platform.
 </p>
 
 <p>
